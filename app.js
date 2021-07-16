@@ -6,12 +6,12 @@ var bodyParser = require('body-parser');
 var cors = require('cors');
 var dataProcessRouter = require('./dataProcessRouter/DataProcessRouterLogin');
 
-mongoose.connect('mongodb://127.0.0.1:27017/Timesheet')
+mongoose.connect('mongodb://127.0.0.1:27017/PlanOptions')
     .then(()=>{
-        console.log("MongoDB <Timesheet> connected successfully");
+        console.log("MongoDB <PlanOptions> connected successfully");
     })
     .catch(err=>{
-        console.log('Problem connecting MongoDB <Timesheet>', err.stack);
+        console.log('Problem connecting MongoDB <PlanOptions>', err.stack);
         process.exit(1);
     })
 
