@@ -1,7 +1,7 @@
 # PubRepoAklycbt
-The application is a simple implementation of the ReactJS, NodeJS and MySql technologies.
+The application is a simple implementation of the Javascript MERN stack: MongoDB, ExpressJS, ReactJS and NodeJS technologies.
 
 The architecture is as follows:
+![image](https://user-images.githubusercontent.com/87492917/131127276-66a12954-0081-45ff-975f-31a27cac7969.png)
 
-![ReactNodeMySql](https://user-images.githubusercontent.com/87492917/125996086-3ef30ea8-64e9-4626-8e01-8b645b87c9ee.png)
 
