@@ -5,7 +5,7 @@ The architecture is as follows:
 
 ![image](https://user-images.githubusercontent.com/87492917/131129130-ffec1355-47b0-42c8-b642-42a836b310c9.png)
 
-#### (2) A sample Timesheet System is used to showcase the key technical components of the application:
+#### (2) A sample Timesheet System is used to showcase the key technical components of the application.
 
 ![image](https://user-images.githubusercontent.com/87492917/131128790-88561357-a428-4d15-a7b0-3e330a6e9a56.png)
 
