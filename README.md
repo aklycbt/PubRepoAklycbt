@@ -57,6 +57,15 @@ The login screen will be displayed automatically after starting the Client.
 
 #### 6. Screen - Adding Timesheet Record
 
+![image](https://user-images.githubusercontent.com/87492917/131145038-1e2c592f-2a25-460e-9d98-d79754f701b6.png)
+![image](https://user-images.githubusercontent.com/87492917/131145112-4e606d65-cf09-4436-a89b-6d428b8c833e.png)
+
+After adding record:
+![image](https://user-images.githubusercontent.com/87492917/131145155-f3826eb9-a72b-4ba2-bca0-4466bc61f482.png)
+
+Checking added record at server console:
+![image](https://user-images.githubusercontent.com/87492917/131145439-916463da-37c2-4ecd-ab0c-0e48bd43df80.png)
+
 #### 7. Screen - Updating Timesheet Record
 
 #### 8. Screen - Deleting Timesheet Record
