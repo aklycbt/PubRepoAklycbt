@@ -22,6 +22,8 @@ The timesheet record is made up of the following attributes:
 
 ![image](https://user-images.githubusercontent.com/87492917/131149829-e5743d1b-ae17-423d-9911-e0dc71c80498.png)
 
+Mongoose reference for defining model: http://mongoosejs.com/docs/guide.html
+
 #### 2. Back-end
 
 ![image](https://user-images.githubusercontent.com/87492917/131130549-d7af6d5d-afae-4d7f-8ea8-609bc9b6d641.png)
