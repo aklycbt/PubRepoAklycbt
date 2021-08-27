@@ -3,7 +3,7 @@
 
 The architecture is as follows:
 
-![image](https://user-images.githubusercontent.com/87492917/131128872-a11d13e5-ca7c-422e-a60c-3249f052a0cb.png)
+![image](https://user-images.githubusercontent.com/87492917/131129130-ffec1355-47b0-42c8-b642-42a836b310c9.png)
 
 #### (2) A sample Timesheet System is used to showcase the key technical components of the application:
 
