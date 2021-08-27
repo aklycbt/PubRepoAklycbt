@@ -9,13 +9,15 @@ The architecture is as follows:
 
 ![image](https://user-images.githubusercontent.com/87492917/131128790-88561357-a428-4d15-a7b0-3e330a6e9a56.png)
 
-1. Server
+#### 1. Server
 
 ![image](https://user-images.githubusercontent.com/87492917/131130549-d7af6d5d-afae-4d7f-8ea8-609bc9b6d641.png)
 
-2. Routing
+#### 2. Routing
 
-3. API
+![image](https://user-images.githubusercontent.com/87492917/131130829-2ff1e201-71d1-49f8-a899-c7f7f94e44b2.png)
+
+#### 3. API
 
 
 
