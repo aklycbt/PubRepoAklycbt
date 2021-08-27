@@ -5,6 +5,14 @@ __The architecture is as follows:__
 
 ![image](https://user-images.githubusercontent.com/87492917/131129130-ffec1355-47b0-42c8-b642-42a836b310c9.png)
 
+__MongoDB__ is a document-oriented NoSQL database used for high volume data storage. Instead of using tables and rows as in the traditional relational databases, MongoDB makes use of collections and documents. Documents consist of key-value pairs which are the basic unit of data in MongoDB. Collections contain sets of documents and function which is the equivalent of relational database tables.
+
+__Express.js__ is a Node.js web application framework. It is designed to utilize Node.js for running web server and greatly reduce the coding needs to implement server-side integrations for Node.js.
+
+__React.js__ is a JavaScript library created for building fast and interactive user interfaces for web applications. It is an open-source, component-based, front-end library responsible only for the application’s view layer. In Model View Controller (MVC) architecture, the view layer is responsible for how the app looks and feels.
+
+__Node.js__ is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine). It provides a rich library of various JavaScript modules which simplifies the development of web applications to a great extent.
+
 #### (2) A sample Timesheet System is used to showcase the key technical components of the application.
 
 ![image](https://user-images.githubusercontent.com/87492917/131128790-88561357-a428-4d15-a7b0-3e330a6e9a56.png)
