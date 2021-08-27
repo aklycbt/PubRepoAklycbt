@@ -17,7 +17,7 @@ The timesheet record is made up of the following attributes:
 * __project__:    The project in which the staff is participating
 * __activity__:   The project activity to be recorded (e.g. _Planning, Requirement, SAnD, Programming, Unit Test, ... etc_)
 * __txDate__:     The transaction date of the timesheet record
-* __timeSpent__:  The timeSpent in the activity in unit of hour
+* __timeSpent__:  The time spent in the activity in unit of hour
 * __submitted__:  Whether the timesheet record has been submitted or not
 
 ![image](https://user-images.githubusercontent.com/87492917/131149829-e5743d1b-ae17-423d-9911-e0dc71c80498.png)
