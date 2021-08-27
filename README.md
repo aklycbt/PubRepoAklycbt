@@ -9,25 +9,38 @@ __The architecture is as follows:__
 
 ![image](https://user-images.githubusercontent.com/87492917/131128790-88561357-a428-4d15-a7b0-3e330a6e9a56.png)
 
-#### 1. Back-end
+#### 1. Data Model
+
+The timesheet record is made up of the following attributes:
+- staffCode:  The staff participating in the project
+- group:      The client for which the project is conducted
+- project:    The project in which the staff is participating
+- activity:   The project activity to be recorded (e.g. _Planning, Requirement, SAnD, Programming, Unit Test, ... etc)
+- txDate:     The transaction date of the timesheet record
+- timeSpent:  The timeSpent in the activity in unit of hour
+- submitted:  Whether the timesheet record has been submitted or not
+
+![image](https://user-images.githubusercontent.com/87492917/131149829-e5743d1b-ae17-423d-9911-e0dc71c80498.png)
+
+#### 2. Back-end
 
 ![image](https://user-images.githubusercontent.com/87492917/131130549-d7af6d5d-afae-4d7f-8ea8-609bc9b6d641.png)
 
-#### 2. Routing
+#### 3. Routing
 
 ![image](https://user-images.githubusercontent.com/87492917/131130829-2ff1e201-71d1-49f8-a899-c7f7f94e44b2.png)
 
-#### 3. API
+#### 4. API
 
-####    3.1 Add
+####    4.1 Add
 
 ![image](https://user-images.githubusercontent.com/87492917/131141596-0eae6713-1384-4340-8e49-ce6e1027440b.png)
 
-####    3.2 Update
+####    4.2 Update
 
 ![image](https://user-images.githubusercontent.com/87492917/131141682-9ffeaae5-2248-4794-a074-7f70332fba9a.png)
 
-####    3.3 Delete
+####    4.3 Delete
 
 ![image](https://user-images.githubusercontent.com/87492917/131141730-676fded3-8c79-48f7-9c41-fce7532f5bd0.png)
 
