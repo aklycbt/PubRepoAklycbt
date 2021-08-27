@@ -31,5 +31,21 @@ The architecture is as follows:
 
 ![image](https://user-images.githubusercontent.com/87492917/131141730-676fded3-8c79-48f7-9c41-fce7532f5bd0.png)
 
+#### (3) System Output
 
+#### 1. Start MongoDB
+
+![image](https://user-images.githubusercontent.com/87492917/131142680-61ed339d-df50-47ca-a597-e0ba1cd6e41f.png)
+
+#### 2. Start Mongosh
+
+![image](https://user-images.githubusercontent.com/87492917/131142650-4fdb76e1-d043-4aae-a9a5-3f4d07a3c335.png)
+
+#### 3. Start Server
+
+![image](https://user-images.githubusercontent.com/87492917/131142958-73e22c00-143a-4fa7-98b5-df6a54c55979.png)
+
+#### 4. Start Client
+
+![image](https://user-images.githubusercontent.com/87492917/131142593-3e58155a-4867-4817-95a1-9a0f02f61a78.png)
 
