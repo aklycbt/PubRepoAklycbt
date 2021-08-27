@@ -1,5 +1,5 @@
 # PubRepoAklycbt
-#### (1) The application is a simple implementation of the Javascript MERN stack: MongoDB, ExpressJS, ReactJS and NodeJS technologies.
+#### (1) The application is a simple implementation of the Javascript __MERN__ stack: _MongoDB, ExpressJS, ReactJS and NodeJS_ technologies.
 
 The architecture is as follows:
 
