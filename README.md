@@ -1,7 +1,7 @@
 # PubRepoAklycbt
 #### (1) The application is a simple implementation of the Javascript __MERN__ stack: _MongoDB, ExpressJS, ReactJS_ and _NodeJS_ technologies.
 
-The architecture is as follows:
+__The architecture is as follows:
 
 ![image](https://user-images.githubusercontent.com/87492917/131129130-ffec1355-47b0-42c8-b642-42a836b310c9.png)
 
@@ -43,6 +43,8 @@ The architecture is as follows:
 
 #### 3. Start Server
 
+__Server Console:
+
 ![image](https://user-images.githubusercontent.com/87492917/131142958-73e22c00-143a-4fa7-98b5-df6a54c55979.png)
 
 #### 4. Start Client
@@ -51,7 +53,7 @@ The architecture is as follows:
 
 #### 5. Screen - Login
 
-The login screen will be displayed automatically after starting the Client.
+__The login screen will be displayed automatically after starting the Client.
 
 ![image](https://user-images.githubusercontent.com/87492917/131144678-444e3873-be24-41de-96e3-a03f98dfe9a1.png)
 
@@ -60,10 +62,12 @@ The login screen will be displayed automatically after starting the Client.
 ![image](https://user-images.githubusercontent.com/87492917/131145038-1e2c592f-2a25-460e-9d98-d79754f701b6.png)
 ![image](https://user-images.githubusercontent.com/87492917/131145112-4e606d65-cf09-4436-a89b-6d428b8c833e.png)
 
-After adding record:
+__After adding record:
+
 ![image](https://user-images.githubusercontent.com/87492917/131145155-f3826eb9-a72b-4ba2-bca0-4466bc61f482.png)
 
-Checking added record at server console:
+__Checking added record at server console:
+
 ![image](https://user-images.githubusercontent.com/87492917/131145439-916463da-37c2-4ecd-ab0c-0e48bd43df80.png)
 
 #### 7. Screen - Updating Timesheet Record
