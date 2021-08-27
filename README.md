@@ -17,6 +17,8 @@ __NodeJS__ is a server-side platform built on Google Chrome's JavaScript Engine 
 
 ![image](https://user-images.githubusercontent.com/87492917/131128790-88561357-a428-4d15-a7b0-3e330a6e9a56.png)
 
+The Timesheet System is for managing timesheet records of the project team members who participate in a project for client.
+
 #### 1. Data Model
 
 The timesheet record is made up of the following attributes:
