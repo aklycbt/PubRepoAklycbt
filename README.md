@@ -49,3 +49,15 @@ The architecture is as follows:
 
 ![image](https://user-images.githubusercontent.com/87492917/131142593-3e58155a-4867-4817-95a1-9a0f02f61a78.png)
 
+#### 5. Screen - Login
+
+The login screen will be displayed automatically after starting the Client.
+
+![image](https://user-images.githubusercontent.com/87492917/131144678-444e3873-be24-41de-96e3-a03f98dfe9a1.png)
+
+#### 6. Screen - Adding Timesheet Record
+
+#### 7. Screen - Updating Timesheet Record
+
+#### 8. Screen - Deleting Timesheet Record
+
