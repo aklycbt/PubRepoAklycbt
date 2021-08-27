@@ -59,6 +59,8 @@ __The login screen will be displayed automatically after starting the Client.__
 
 #### 6. Screen - Adding Timesheet Record
 
+__After logging in, the main menu for timesheet record editing is shown:__
+
 ![image](https://user-images.githubusercontent.com/87492917/131145038-1e2c592f-2a25-460e-9d98-d79754f701b6.png)
 ![image](https://user-images.githubusercontent.com/87492917/131145112-4e606d65-cf09-4436-a89b-6d428b8c833e.png)
 
