@@ -25,6 +25,7 @@ The Timesheet System is for managing timesheet records of the project team membe
 #### 1. Data Model
 
 The timesheet record is made up of the following attributes:
+* __key__:        The unique key for identifying the record
 * __staffCode__:  The staff participating in the project
 * __group__:      The client for which the project is conducted
 * __project__:    The project in which the staff is participating
