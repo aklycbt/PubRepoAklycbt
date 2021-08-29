@@ -42,7 +42,7 @@ __Mongoose reference for defining model__: http://mongoosejs.com/docs/guide.html
 
 Port 4200 is used for listening to any server request.  The request is routed ( i.e. _app.use('/', dataProcessRouter);_ ) to the associated API endpoint for processing with use of ExpressJS (i.e. _var express = require('express');_ ).
 
-Mongoose is used for connecting to MongoDB at 
+Mongoose is used for connecting to the _Timesheet_ database at _mongodb://127.0.0.1:27017/Timesheet_
 
 ![image](https://user-images.githubusercontent.com/87492917/131130549-d7af6d5d-afae-4d7f-8ea8-609bc9b6d641.png)
 
