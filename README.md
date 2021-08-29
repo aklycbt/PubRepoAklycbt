@@ -44,7 +44,7 @@ Port 4200 is used for listening to any server request.  The request is routed ( 
 
 Static files are files that clients download from the server, such as image and .html files.  These files are in general put inside a "PUBLIC" server sub-folder. ExpressJS, by default does not allow the serving of static files. It is needed to enable it using a built-in middleware.  That is, _app.use(express.static('public'));_
 
-Mongoose is used for connecting to the _Timesheet_ database at _mongodb://127.0.0.1:27017/Timesheet_
+Mongoose is used for connecting to the _Timesheet_ database: _mongoose.connect('mongodb://127.0.0.1:27017/Timesheet')_
 
 ![image](https://user-images.githubusercontent.com/87492917/131130549-d7af6d5d-afae-4d7f-8ea8-609bc9b6d641.png)
 
