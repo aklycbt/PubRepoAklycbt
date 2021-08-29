@@ -103,11 +103,11 @@ __Checking added record at server console:__
 
 #### 7. Screen - Updating Timesheet Record
 
-![image](https://user-images.githubusercontent.com/87492917/131147673-c2bed202-dcec-4da2-b096-ed8bcdcf2ec2.png)
+![image](https://user-images.githubusercontent.com/87492917/131240611-31de1f71-212f-4ff4-8679-38e9dd0262d2.png)
 
 __Checking updated record at server console:__
 
-![image](https://user-images.githubusercontent.com/87492917/131147810-a0d947da-35f7-4088-a38c-29a960764ae6.png)
+![image](https://user-images.githubusercontent.com/87492917/131240623-415c718c-ef95-42d1-822f-c01184ce22f2.png)
 
 #### 8. Screen - Deleting Timesheet Record
 
