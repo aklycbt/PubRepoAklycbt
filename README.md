@@ -16,7 +16,7 @@ __ReactJS__ is a JavaScript library created for building fast and interactive us
 
 __NodeJS__ is a server-side platform built on Google Chrome's JavaScript Engine (V8 Engine). It provides a rich library of various JavaScript modules which simplifies the development of web applications to a great extent.
 
-#### (2) A sample Timesheet System is used to showcase the key technical components of the application.
+#### (2) A sample Timesheet System is used to showcase the key technical components of the application and their interactions.
 
 ![image](https://user-images.githubusercontent.com/87492917/131128790-88561357-a428-4d15-a7b0-3e330a6e9a56.png)
 
