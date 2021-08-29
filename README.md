@@ -40,6 +40,8 @@ __Mongoose reference for defining model__: http://mongoosejs.com/docs/guide.html
 
 #### 2. Back-end
 
+Port 4200 is used for listening to any server request.  The request is routed to the associated API endpoint for processing with use of ExpressJS.
+
 ![image](https://user-images.githubusercontent.com/87492917/131130549-d7af6d5d-afae-4d7f-8ea8-609bc9b6d641.png)
 
 __Mongoose reference for connecting MongoDB__: http://mongoosejs.com/docs/connections.html
