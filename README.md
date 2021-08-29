@@ -46,7 +46,9 @@ Port 4200 is used for listening to any server request.  The request is routed ( 
 
 __Mongoose reference for connecting MongoDB__: http://mongoosejs.com/docs/connections.html
 
-#### 3. Routing
+#### 3. Routing (UI Interface)
+
+The Routing here refers to the UI component to call in response to the corresponding path detected in the URI and is different from the routing at the back-end.  
 
 ![image](https://user-images.githubusercontent.com/87492917/131130829-2ff1e201-71d1-49f8-a899-c7f7f94e44b2.png)
 
