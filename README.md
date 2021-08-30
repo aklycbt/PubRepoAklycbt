@@ -1,5 +1,7 @@
 # PubRepoAklycbt
 
+## Showcase of MERN Development Through the Implementation of a Simple Timesheet System ##
+
 MERN is a user-friendly full-stack JavaScript framework ideal for building dynamic websites and applications. It is a free and open-source stack designed to supply developers with a quick and organized method for creating rapid prototypes of MERN-based web applications. One of the main benefits of the MERN stack is that a single language, JavaScript, runs on every level of the application, making it an efficient and modern approach to web development. 
 
 #### (1) This project is a simple implementation of the Javascript __MERN__ stack: _MongoDB, ExpressJS, ReactJS_ and _NodeJS._
