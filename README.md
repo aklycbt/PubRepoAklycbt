@@ -4,7 +4,7 @@
 
 ### Why MERN? ###
 
-MERN is a user-friendly full-stack JavaScript framework ideal for building dynamic websites and applications. It is a free and open-source stack which can also be used for creating rapid prototypes of MERN-based web applications. Another kehy benefits of MERN stack is that a single language, JavaScript, runs on every level of the application, making it an efficient and modern approach to web development. 
+MERN is a user-friendly full-stack JavaScript framework ideal for building dynamic websites and applications. It is a free and open-source stack which can also be used for creating rapid prototypes of MERN-based web applications. Another key benefit of MERN stack is that a single language, JavaScript, runs on every level of the application, making it an efficient and modern approach to web development. 
 
 #### (1) This project is a simple implementation of the Javascript __MERN__ stack: _MongoDB, ExpressJS, ReactJS_ and _NodeJS._
 
