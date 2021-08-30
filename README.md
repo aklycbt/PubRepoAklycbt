@@ -42,9 +42,9 @@ __Mongoose reference for defining model__: http://mongoosejs.com/docs/guide.html
 
 #### 2. Back-end
 
-Port 4200 is used for listening to any server request.  The request is routed ( i.e. _app.use('/', dataProcessRouter);_ ) to the associated API endpoint for processing with use of ExpressJS (i.e. _var express = require('express');_ ).
+Port 4200 is used for listening to any server request.  The request is routed to the associated API endpoint ( i.e. _app.use('/', dataProcessRouter);_ ) for processing with use of ExpressJS (i.e. _var express = require('express');_ ).
 
-Static files are files that clients download from the server, such as image and .html files.  These files are in general put inside a "PUBLIC" server sub-folder. ExpressJS, by default does not allow the serving of static files. It is needed to enable it using a built-in middleware.  That is, _app.use(express.static('public'));_
+Static files are files that clients download from the server, such as image, .css and .html files.  These files are in general necessary for implementing a practical web application.  They are normally put inside a "public" server sub-folder. ExpressJS, by default does not allow the serving of static files. It is needed to enable it using a built-in middleware.  That is, _app.use(express.static('public'));_
 
 Mongoose is used for connecting to the _Timesheet_ database: _mongoose.connect('mongodb://127.0.0.1:27017/Timesheet')_
 
@@ -54,7 +54,7 @@ __Mongoose reference for connecting MongoDB__: http://mongoosejs.com/docs/connec
 
 #### 3. Routing (UI Interface)
 
-The Routing here refers to the UI component to call in response to the corresponding path detected in the URI and is different from the routing at the back-end.  
+The Routing here refers to the UI component to invoke in response to the corresponding path detected in the URI and is different from the routing at the back-end.  
 
 ![image](https://user-images.githubusercontent.com/87492917/131130829-2ff1e201-71d1-49f8-a899-c7f7f94e44b2.png)
 
